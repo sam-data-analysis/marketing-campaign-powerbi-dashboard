@@ -15,7 +15,7 @@ Campaign 4 generated the highest number of responses, while Campaign 2 performed
 
 ## Dashboard
 
-![Dashboard](marketing_campaign_dashboard.png)
+<img src="marketing_campaign_dashboard.png" width="700">
 
 ## Tools Used
 
