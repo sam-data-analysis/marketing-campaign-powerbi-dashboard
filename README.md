@@ -1,6 +1,6 @@
 # Marketing Campaign Performance Dashboard
 
-This project analyses the performance of five marketing campaigns using Power BI.
+This project analyses the performance of five marketing campaigns using Power BI, demonstrating dashboard design, Power Query data transformation, and DAX measures.
 
 ## Key Metrics
 
@@ -15,7 +15,7 @@ Campaign 4 generated the highest number of responses, while Campaign 2 performed
 
 ## Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](marketing_campaign_dashboard.png)
 
 ## Tools Used
 
